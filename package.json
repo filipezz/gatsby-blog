@@ -13,9 +13,23 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "@mdx-js/mdx": "^1.5.2",
+    "@mdx-js/react": "^1.5.2",
     "gatsby": "^2.18.6",
+    "gatsby-background-image": "^0.9.12",
+    "gatsby-image": "^2.2.37",
+    "gatsby-plugin-emotion": "^4.1.18",
+    "gatsby-plugin-mdx": "^1.0.63",
+    "gatsby-plugin-react-helmet": "^3.1.18",
+    "gatsby-plugin-sharp": "^2.3.10",
+    "gatsby-remark-images": "^3.1.39",
+    "gatsby-source-filesystem": "^2.1.42",
+    "gatsby-transformer-sharp": "^2.3.9",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1"
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
